@@ -41,6 +41,14 @@ client.on('message',(message)=>{
                     value: "ini command boongan"
                   },
                   {
+                    name: "> $muteall",
+                    value: "mute all (pretty straight forward isn't it)"
+                  },
+                  {
+                    name: "> $unmuteall <@member>",
+                    value: "mute all (pretty straight forward isn't it)"
+                  },
+                  {
                     name: "> $help",
                     value: "Membuka list perintah BOT"
                   }
@@ -104,6 +112,22 @@ client.on('message',(message)=>{
                     message.reply("unmute siapa?")
                 }
             }
+        break;
+        case "muteall" :
+            var channel = message.member.voice.channel;
+            channel.members.forEach(async(memberInfo,index)=>{
+                const member = message.guild.member(memberInfo.user);
+                await member.voice.setMute(true,'iseng').then().catch((err)=>console.log(err));
+            })
+            message.channel.send("AMONG US IS STARTING \n GOOD LUCK, HAVE FUN!");
+        break;
+        case "unmuteall" :
+            var channel = message.member.voice.channel;
+            channel.members.forEach(async(memberInfo,index)=>{
+                const member = message.guild.member(memberInfo.user);
+                await member.voice.setMute(false,'iseng').then().catch((err)=>console.log(err));
+            })
+            message.channel.send("DISCUSS!");
         break;
     }
 })
