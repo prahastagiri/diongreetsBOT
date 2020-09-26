@@ -11,6 +11,6 @@ this is a work in progress
 
 This feature is available for **everyone** to use!
 
-> Chaos in the midst of chaos isn't funny,
-> but chaos in the midst of order is.
+> Chaos in the midst of chaos isn't funny, \n
+> but chaos in the midst of order is.\n
 **(Steve Martin)**
