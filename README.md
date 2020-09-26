@@ -6,10 +6,11 @@ this is a work in progress
 
 ### What can this bot do?
   - Mute and Kick members that's connected to voice chat
+  - Mute all and unmute all members in voice channel
   - TBA lol
 
 This feature is available for **everyone** to use!
 
-> Civilization begins with order,
-> grows with liberty and dies with chaos.
-**(Will Durant)**
+> Chaos in the midst of chaos isn't funny,
+> but chaos in the midst of order is.
+**(Steve Martin)**
