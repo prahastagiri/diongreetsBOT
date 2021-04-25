@@ -1,0 +1,14 @@
+{
+    "JAN" : { "2" : ["Devisya"], "7":["Yusril"], "12" : ["Panca"] },
+    "FEB" : { "8" : ["Ilza","Widya"], "12" : ["Erin"], "14" : ["Gung Oka"] },
+    "MAR" : { "27" : ["Lina"] },
+    "APR" : { "4" : ["Dian"], "13" : ["Bayu"] },
+    "MAY" : { "6" : ["Wasudewa"], "10" : ["Galih"], "17" : ["Widhi"] },
+    "JUN" : { "18" : ["Santhi"] },
+    "JUL" : { "3" : ["Mastuti", "Trisna"] ,"6" : ["Gus Dharma"], "9" : ["Yuda Pramana"], "31" : ["Duta"]  },
+    "AUG" : { "20" : ["Mahardika Wijaya"], "31" : ["Agus Krisna"]  },
+    "SEP" : { "9" : ["Kusuma Wardana"], "28" : ["Arip"] },
+    "OCT" : { "5" : ["Putri"], "10" : ["Suto"] },
+    "NOV" : { "3" : ["Fajar"]},
+    "DEC" : { "2" : ["Lita"], "12" : ["Dwik"], "16" : ["Andini"], "22" : ["Daniel"] }
+}
