@@ -1,6 +1,6 @@
 {
     "prefix":"$",
-    "token":"NzU5MDcyMTUyNzgzMjkwMzY4.G4md7e.ai_WPZMqEDy6FcdU-67KbbYO-jbWLbsnqMjNZo",
+    "token":null,
     "messages" : {
         "error_message" : "Perintah Salah. Lebih Lanjut Ketik $help",
         "user_disconnect_message" : "Pengguna Belum Terhubung",
