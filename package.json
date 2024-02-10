@@ -12,7 +12,6 @@
   "dependencies": {
     "date-diff": "^1.0.2",
     "discord.js": "^12.3.1",
-    "dotenv": "^16.4.1",
     "moment-timezone": "^0.5.33"
   }
 }
