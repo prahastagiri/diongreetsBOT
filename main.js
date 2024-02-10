@@ -93,5 +93,4 @@ client.on('message', (message) => {
     }
 
 })
-// client.login(process.env.TOKEN || "NzU5MDcyMTUyNzgzMjkwMzY4.GgZgYV.HktfCx97_Vvn9vpub2gF4-ml26nTI9zWChStu8")
 client.login(process.env.TOKEN)
