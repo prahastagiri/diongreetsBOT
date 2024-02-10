@@ -1,6 +1,5 @@
 {
     "prefix":"$",
-    "token":null,
     "messages" : {
         "error_message" : "Perintah Salah. Lebih Lanjut Ketik $help",
         "user_disconnect_message" : "Pengguna Belum Terhubung",
